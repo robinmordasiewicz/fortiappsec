@@ -4,6 +4,6 @@
 
    - ![Login](support-fortinet-com-login.png)
 
-2. Select the ![Services](services.png) drop-down, and click FortiAppSec Cloud
+2. Select the ![Services](services-drop-down.png) drop-down, and click FortiAppSec Cloud
 
-   - ![Services FortiAppSec Cloud][services-fortiappsec-cloud.png]
+   - ![Services FortiAppSec Cloud](services-fortiappsec-cloud.png)
