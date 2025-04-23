@@ -1,4 +1,4 @@
-# FortiAppSec Cloud
+# Login
 
 1. Navigate to [https://support.fortinet.com](https://support.fortinet.com) and click ![Login](login.png)
 
