@@ -7,4 +7,7 @@
 1. Select the ![Services](services-drop-down.png) drop-down, and click FortiAppSec Cloud
 
     ![Services FortiAppSec Cloud](services-fortiappsec-cloud.png)
+
+1. FortiAppSec Cloud portal is launched
+
     ![FortiAppSec Cloud](fortiappsec-login-screen.png)
